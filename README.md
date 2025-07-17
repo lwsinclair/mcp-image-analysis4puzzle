@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/falahgs-mcp-image-analysis4puzzle-badge.jpg)](https://mseep.ai/app/falahgs-mcp-image-analysis4puzzle)
+
 # MCP-Image-Analysis4Puzzle
 
 A specialized MCP server that uses Gemini 2.5 Pro to analyze and solve mathematical puzzles for children's education.
